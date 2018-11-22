@@ -1,0 +1,38 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Worksheet</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>undefined<style>#toPrint{width : 210mm;}</style><table class="table table-bordered" id="toPrint">
+            <thead>
+            <tr>
+                <th>체크</th>
+                <th>거래처명</th>
+                <th>품명 및 규격</th>
+                <th>금액</th>
+                <th>비고</th>
+                <th>인쇄</th>
+            </tr>
+            </thead>
+            <tbody>
+                            <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td> ~ </td>
+                    <td>0</td>
+                </tr>
+                            <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td> ~ </td>
+                    <td>0</td>
+                </tr>
+                            <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td> ~ </td>
+                    <td>0</td>
+                </tr>
+                        </tbody>
+        </table></table></body></html>
